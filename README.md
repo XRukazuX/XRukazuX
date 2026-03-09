@@ -14,18 +14,22 @@ Actualmente me encuentro desarrollando proyectos personales para seguir fortalec
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- Bootstrap
 - React
 - Vite
 
 ### Backend
 - Node.js
 - Express.js
+- MongoDB 
 - APIs REST
 
 ### Herramientas
 - Git & GitHub
 - npm
 - VS Code
+- Netlify
+- Render
 
 ## 🎯 Objetivo profesional
 
