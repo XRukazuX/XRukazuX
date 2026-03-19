@@ -45,14 +45,13 @@ Busco mi **primera oportunidad laboral como desarrollador frontend **, donde pue
 - Arquitectura frontend
 - Buenas prácticas de código
 
-##💼 Portafolio
-Link: https://portafolio-lovecraft.netlify.app/
+## 💼 Portafolio
+🔗 [Ver portafolio](https://portafolio-lovecraft.netlify.app/)
 
 ## 📫 Contacto
-
-- GitHub: https://github.com/XRukazuX
-- LinkedIn: [https://www.linkedin.com/in/lucas-ariel-mamani-pe%C3%B1a-829082243/]
-- Email: lucas_mamani_12@hotmail.com
+- 🐙 [GitHub](https://github.com/XRukazuX)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-ariel-mamani-pe%C3%B1a/)
+- 📧 lucas.dev.codex@gmail.com
 ---
 
 ⭐ Gracias por visitar mi perfil
